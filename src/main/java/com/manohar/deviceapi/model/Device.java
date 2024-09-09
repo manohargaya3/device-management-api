@@ -6,6 +6,9 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import java.time.LocalDateTime;
 
+/**
+ * @author manohar
+ */
 @Entity
 public class Device {
 
